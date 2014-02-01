@@ -35,6 +35,10 @@ ul{
 .nav li{
 	display: inline;
 }
+.nav a{
+	text-decoration: none;
+}
+
 .nav-link {
 	text-decoration: none;
 	list-style-type: none;
