@@ -71,8 +71,12 @@ ul{
 	padding-left: 27px;
 }
 
-.right-links{
-	float:right;
+#left-links{
+	float: left;
+}
+
+#right-links{
+	float: right;
 }
 
 
