@@ -27,6 +27,7 @@ ul{
 }
 
 .nav-link {
+	display: inline;
 	text-decoration: none;
 	list-style-type: none;
 }
