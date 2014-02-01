@@ -22,7 +22,12 @@
 	float: right;
 }
 
+ul{
+	list-style-type: none;
+}
+
 .nav-link {
 	text-decoration: none;
 	list-style-type: none;
 }
+
