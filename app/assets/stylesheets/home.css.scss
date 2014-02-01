@@ -8,12 +8,21 @@
 	width: 1247px;
 	height:300px;
 	margin: auto;
+	font-size: small;
 }
 
 img{
 	position: relative;
 }
 
-li {
+.link{
 	text-decoration: none;
+}
+
+.nav-link{
+	text-decoration: none;
+}
+
+li {
+	list-style-type: none;
 }
