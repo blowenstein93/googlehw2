@@ -43,6 +43,7 @@ ul{
 	text-decoration: none;
 	list-style-type: none;
 	text-align: right;
+	padding:none;
 	height: 60px;
 }
 
