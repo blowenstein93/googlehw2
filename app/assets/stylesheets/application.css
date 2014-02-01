@@ -61,7 +61,11 @@ ul{
 
 .footer li{
 	display:inline;
-	
+
+}
+
+#footlist{
+	line-height: 0px;
 }
 
 .footer a{
