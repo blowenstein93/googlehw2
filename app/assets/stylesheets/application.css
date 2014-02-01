@@ -38,5 +38,7 @@ ul{
 .nav-link {
 	text-decoration: none;
 	list-style-type: none;
+	text-align: right;
+	height: 60px;
 }
 
