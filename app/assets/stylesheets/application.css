@@ -26,8 +26,10 @@ ul{
 	list-style-type: none;
 }
 
-.nav-link {
+.nav li{
 	display: inline;
+}
+.nav-link {
 	text-decoration: none;
 	list-style-type: none;
 }
