@@ -27,16 +27,12 @@
 	margin: none;
 }
 
-.nav li{
-	padding-top: none;
-	display: inline;
-}
-.nav a{
-	padding-top:none;
-	text-decoration: none;
-}
 
 .nav-link {
+	padding-top:none;
+	text-decoration: none;
+	padding-top: none;
+	display: inline;
 	list-style-type: none;
 	text-align: right;
 	padding:none;
