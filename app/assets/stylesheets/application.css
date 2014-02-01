@@ -11,3 +11,13 @@
  *= require_self
  *= require_tree .
  */
+.nav-bar {
+	position: fixed;
+	width: 100%;
+	height: 60px;
+	font-family: arial, sans-serif;
+	float: right;
+}
+.nav-link {
+	text-decoration: none;
+}
