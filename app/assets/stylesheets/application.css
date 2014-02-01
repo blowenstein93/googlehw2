@@ -65,7 +65,9 @@ ul{
 }
 
 #footlist{
-	line-height: 40px;
+	padding:0px;
+	margin-top:0px;
+	margin-bottom:0px;
 }
 
 .footer a{
