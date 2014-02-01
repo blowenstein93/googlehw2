@@ -50,20 +50,19 @@ ul{
 
 
 .footer{
-	width: 100%;
+	width:104%;
 	position: absolute;
 	bottom:0;
 	border-top:1px solid #e4e4e4;
 	background-color: #f2f2f2;
 	font-size:small;
 	line-height:40px;
-	margin:0px;
-	padding:0px;
+	margin-left:0px;
+	padding-left:0px;
 }
 
 .footer li{
 	display:inline;
-
 }
 
 #footlist{
