@@ -85,15 +85,15 @@ ul{
 }
 
 #left-links{
-	float: left;
+	float:left;
 	padding-left:0px;
 	margin-left:0px;
 }
 
 #right-links{
-	padding-right:4px;
-	margin-right:4px;
 	float:right;
+	padding-right:0px;
+	margin-right:30px;
 }
 
 
