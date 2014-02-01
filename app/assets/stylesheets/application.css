@@ -61,6 +61,7 @@ ul{
 
 .footer li{
 	display:inline;
+	
 }
 
 .footer a{
@@ -79,8 +80,8 @@ ul{
 
 #left-links{
 	float: left;
-	padding-left:none;
-	margin-left:none;
+	padding-left:0px;
+	margin-left:0px;
 }
 
 #right-links{
