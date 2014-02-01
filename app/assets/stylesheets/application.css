@@ -29,18 +29,18 @@
 
 ul{
 	list-style-type: none;
-	padding: 5px;
 }
 
 .nav li{
+	padding-top: none;
 	display: inline;
 }
 .nav a{
+	padding-top:none;
 	text-decoration: none;
 }
 
 .nav-link {
-	text-decoration: none;
 	list-style-type: none;
 	text-align: right;
 	padding:none;
