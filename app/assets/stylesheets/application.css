@@ -53,7 +53,6 @@ ul{
 	width: 100%;
 	position: absolute;
 	bottom:0;
-	padding:10px;
 	border-top:1px solid #e4e4e4;
 	background-color: #f2f2f2;
 	font-size:small;
@@ -73,8 +72,15 @@ ul{
 	padding-left: 0px;
 }
 
+.link{
+	color:#666;
+
+}
+
 #left-links{
 	float: left;
+	padding-left: none;
+	margin-left:none;
 }
 
 #right-links{
