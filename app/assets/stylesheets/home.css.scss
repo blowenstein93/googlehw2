@@ -36,8 +36,10 @@ img{
 	display: inline;
 	border: 1px solid;
 	border-color: rgba(0,0,0,0.1);
-	border-radius: 0px;
-	line-height: 50px;
+	-moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -0-border-radius: 20px;
+    	line-height: 50px;
 }
 li {
 	list-style-type: none;
