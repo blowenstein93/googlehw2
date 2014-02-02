@@ -39,6 +39,7 @@
 
 .link{
 	text-decoration:none;
+	font-color:#666;
 }
 
 //footer
@@ -60,7 +61,6 @@
 	padding-left:27px;
 	display: inline;
 	font-size: 13px;
-	font-color:#666;
 }
 
 #left-links{
