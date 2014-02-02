@@ -54,6 +54,7 @@
 
 .footer-elements li{
 	padding:15px;
+	display: inline;
 }
 
 #left-links{
