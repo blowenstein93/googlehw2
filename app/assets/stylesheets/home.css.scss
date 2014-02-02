@@ -47,18 +47,17 @@
 .button a{
 	text-decoration: none;
 }
-.button li{
+.box{
 	display:inline;
 	padding-top:none;
     padding-bottom: none;
+	vertical-align: top;
 }
 
-.box{
-	display:inline;
-	vertical-align: top;
+.forms{
 	background-color: #f5f5f5;
 	border: 1px solid #c6c6c6;
-    line-height: 29px;
+	line-height: 29px;
     font-weight: bold;
     padding-top:none;
     padding-bottom: none;
