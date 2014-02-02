@@ -22,9 +22,10 @@ img{
 }
 
 #search{
-	height: 28px;
-	width: 570px;
+	line-height: 28px;
+	line-width: 570px;
 	padding: none;
+	border-top-style: inset;
 }
 
 .button a{
@@ -38,7 +39,6 @@ img{
 	border: 1px solid #c6c6c6;
     line-height: 29px;
     font-weight: bold;
-
 }
 
 li {
