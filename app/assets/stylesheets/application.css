@@ -31,12 +31,13 @@
 .nav li{
 	padding: none;
 	display: inline;
-	font-color:#404040;
+	font-color: #404040;
 	font-family:arial,sans-serif;
 	text-align: right;
+	font-size: 13px;
 }
 
-.nav-link{
+.link{
 	text-decoration:none;
 }
 
