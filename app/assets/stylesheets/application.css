@@ -53,20 +53,19 @@
 }
 
 .footer-elements li{
+	vertical-align: middle;
 	padding-left:27px;
 	display: inline;
 	font-size: small;
 }
 
 #left-links{
-	vertical-align: middle;
 	float:left;
 	padding-left:0px;
 	margin-left:0px;
 }
 
 #right-links{
-	vertical-align: middle;
 	float:right;
 	padding-right:0px;
 	margin-right:30px;
