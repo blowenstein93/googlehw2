@@ -31,15 +31,14 @@
 .nav li{
 	padding: none;
 	display: inline;
-	font-color: #404040;
-	font-family:arial,sans-serif;
-	text-align: right;
-	font-size: 13px;
 }
 
 .link{
 	text-decoration:none;
-	font-color:#666;
+	font-color: #404040;
+	font-family:arial,sans-serif;
+	font-size: 13px;
+;
 }
 
 //footer
