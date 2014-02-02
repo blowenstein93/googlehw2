@@ -71,6 +71,6 @@
 
 #right-links{
 	float:right;
-	margin-right:30px;
-	margin-bottom: 16px;
+	position:absolute;
+	bottom:16px;
 }
