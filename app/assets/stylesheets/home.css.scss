@@ -17,8 +17,8 @@
 }
 
 img{
-	height: 200px;
-	width: 687px;
+	height: 125px;
+	width: 500px;
 }
 
 #search{
@@ -38,7 +38,8 @@ img{
 .buttons{
 	display:inline;
 	border-width: 1px;
-	border:2px;
+	border:2px solid transparent;
+	background-color: rgba(0,0,0,.3);
 }
 
 .nav-link{
