@@ -63,6 +63,7 @@
 }
 
 #left-links{
+	vertical-align: middle;
 	float:left;
 	position:absolute;
 	bottom:0px;
@@ -72,6 +73,7 @@
 }
 
 #right-links{
+	vertical-align: middle;
 	float:right;
 	margin-right:30px;
 }
