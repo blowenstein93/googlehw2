@@ -62,6 +62,8 @@
 
 #left-links{
 	float:left;
+	padding-left: none;
+	margin-left: none;
 }
 
 #right-links{
