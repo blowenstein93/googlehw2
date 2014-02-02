@@ -42,7 +42,6 @@ ul{
 }
 .nav a{
 	padding-top:none;
-	text-decoration: none;
 	color:#404040;
 }
 
@@ -51,6 +50,7 @@ ul{
 	text-align: right;
 	padding:none;
 	height: 60px;
+	text-decoration:none;
 }
 
 //footer
