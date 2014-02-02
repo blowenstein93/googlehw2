@@ -70,6 +70,7 @@
 }
 
 #right-links{
+	position:absolute;
 	float:right;
 	bottom:16px;
 	padding-right:30px;
