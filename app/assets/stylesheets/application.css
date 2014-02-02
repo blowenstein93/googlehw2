@@ -57,6 +57,7 @@
 
 .elements{
 	vertical-align: middle;
+	float:left;
 	padding-left:27px;
 	display: inline;
 	font-size: 13px;
