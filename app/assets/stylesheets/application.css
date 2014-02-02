@@ -64,7 +64,7 @@
 
 #left-links{
 	float:left;
-	position:relative;
+	position:absolute;
 	left:0px;
 	bottom:16px;
 }
