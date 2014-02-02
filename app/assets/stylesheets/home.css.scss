@@ -21,12 +21,17 @@
 	margin:0 auto;
 }
 
+#voice {
+	border: none;
+}
+
 #search{
 	height: 28px;
 	width: 570px;
 	padding-top:6px;
 	padding-right:9px;
 	border-top-style: inset;
+	border-color:rgb(34, 34, 34);
 }
 
 .button a{
