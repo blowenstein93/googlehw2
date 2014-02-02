@@ -44,10 +44,11 @@ ul{
 .nav-link{
 	list-style-type: none;
 	text-align: right;
-	padding:none;
 	height: 60px;
 	text-decoration:none;
 	font-color:#666;
+	padding-left:27px;
+
 }
 
 //footer
@@ -68,24 +69,10 @@ ul{
 	padding:0px;
 }
 
-.footer li{
-	display:inline;
-	padding:none;
-	margin:none;
-}
-
-#footlist{
-	padding:none;
-	margin:none;
-}
-
 .link{
-	color:#666;
-	padding-left:27px;
 }
 
 #advert{
-	margin-left:-2px;
 }
 
 
