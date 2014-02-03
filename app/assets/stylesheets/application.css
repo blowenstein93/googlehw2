@@ -38,8 +38,9 @@
 
 #me{
 	border-radius: 50%;
-	margin: -1px;
-	overflow: hidden;
+	margin-left: -1px;
+	margin-right: -1px;
+	overflow: scroll;
 	display: block;
 	display: inline;
 }
