@@ -19,6 +19,8 @@
 	width: 100%;
 	height: 60px;
 	padding-right: 30px;
+	padding-top:none;
+	margin:none;
 }
 
 .nav{
@@ -30,6 +32,7 @@
 
 .nav li{
 	padding: none;
+	margin: none;
 	display: inline;
 }
 
@@ -38,6 +41,8 @@
 	font-color: #666666;
 	font-family:arial,sans-serif;
 	font-size: 13px;
+	margin:none;
+	padding:none;
 ;
 }
 
