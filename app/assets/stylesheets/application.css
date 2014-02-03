@@ -37,12 +37,12 @@
 }
 
 #me{
-	border-radius: 50%;
-	margin-left: -1px;
-	margin-right: -1px;
-	overflow: scroll;
-	display: block;
-	display: inline;
+
+	border: 2px solid black;
+            border-radius: 30px;
+            -moz-border-radius: 30px;
+            -khtml-border-radius: 30px;
+            -webkit-border-radius: 30px;
 }
 
 #share{
