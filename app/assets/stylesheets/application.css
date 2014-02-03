@@ -43,6 +43,7 @@
 	overflow:hidden;
 	height:32px;
 	width:32px;
+	display:inline;
 }
 
 #share{
