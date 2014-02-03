@@ -37,6 +37,10 @@
 	vertical-align: middle;
 }
 
+#me{
+	border-radius:50%;
+}
+
 #share{
 	background-color: #f5f5f5;
 	border: none;
