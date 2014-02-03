@@ -25,14 +25,14 @@
 
 .nav{
 	float: right;
-	padding: none;
-	margin: none;
+	padding: 0px;
+	margin: 0px;
 	list-style-type: none;
 }
 
 .nav li{
-	padding: none;
-	margin: none;
+	padding: 0px;
+	margin: 0px;
 	display: inline;
 }
 
