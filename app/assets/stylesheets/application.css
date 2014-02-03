@@ -38,11 +38,11 @@
 }
 
 #me{
-	border-radius:50%;
-	margin:-1px;
-	overflow:hidden;
-	display:block;
-	display:inline;
+	border-radius: 50%;
+	margin: -1px;
+	overflow: hidden;
+	display: block;
+	display: inline;
 }
 
 #share{
