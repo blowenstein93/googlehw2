@@ -1,28 +1,11 @@
-== README
+This homework was actually really challenging for me. I've done the codeacademy html/css program so I had some exposure to web development but I hadn't actually done anything with them. This was my first time really making a website. I had a ton of issues: spacing was constantly an issue, I didn't know if the class/id tag should be done for the div or the link etc. However, I felt myself getting better as I wrote more and more code.
+One annoying problem I had was getting the links to stay grey instead of purple. It took some experimenting to find out that I had to change 'color' not 'font-color' in the <a> tag not the <li> tag. 
+Spacing in general was more of a guess and check game, but I think I've learned how to space things better as I did it more. I relied on google a lot to help find out how to change some things and what the name for some parts is. For example, I wouldn't have known what vertical align was or what the difference between padding and margin is without looking it up.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Website Ideas:
 
-Things you may want to cover:
+1. Twitter to facebook translations ~ This is sort of like hootsuite, but has one main aspect. Because what we say on facebook is worded differently or has different hashtags etc. you can't really post one thing to both facebook and twitter at the same time. I want to make a website that translates commonly used hashtags to the relevant facebook expression or whatever it would be.
 
-* Ruby version
+2. Website that people put interviews of war veterans on - similar to www.hearyourhistory.com but everyone everywhere can submit themselves. It could be a place everyone can save 
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+3. A kayak.com for buses. There are a ton of bus companies and they all have different ameneties, prices, times, and pickup/dropoff locations. This makes searching for a bus even on a simple route from Philly to NYC more frustrating than it should be.
